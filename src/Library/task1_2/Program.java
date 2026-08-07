@@ -1,3 +1,8 @@
+/**
+ * Этот класс выводит мои личные данные.
+ * @author Владислав
+ */
+
 package Library.task1_2;
 
 public class Program {
