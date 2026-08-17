@@ -1,4 +1,4 @@
-package library.task1_4;
+package library.block_1.task1_4;
 
 //Задача 1 — Найди ошибки
 public class StudentCalculator { // убрать нижнее подчеркивание и сделать с заглавной буквы, вот так -'StudentCalculator'

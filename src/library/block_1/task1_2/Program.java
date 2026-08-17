@@ -1,4 +1,4 @@
-package library.task1_2;
+package library.block_1.task1_2;
 
 public class Program {
     public static void main(String[] args) {
