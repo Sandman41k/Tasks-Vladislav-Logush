@@ -1,7 +1,7 @@
 package library.task1_4;
 
 //Задача 1 — Найди ошибки
-public class student_calculator { // убрать нижнее подчеркивание и сделать с заглавной буквы, вот так -'StudentCalculator'
+public class StudentCalculator { // убрать нижнее подчеркивание и сделать с заглавной буквы, вот так -'StudentCalculator'
     public static final double pi = 3.14; // имя 'pi' константы сделать с заглавных букв
 
     public static double CalculateCircleArea(double R) { // с маленькой буквы 'calcu...' и 'R' неправильное наименование
