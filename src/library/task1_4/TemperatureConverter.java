@@ -1,4 +1,4 @@
-package Library.task1_4;
+package library.task1_4;
 //Задача 2 — Перепишите правильно
 
 public class TemperatureConverter {
