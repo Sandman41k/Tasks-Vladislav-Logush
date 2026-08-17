@@ -9,7 +9,7 @@ public class TempConverter {
     private static final double FAHRENHEIT_DIV = 5.0;
 
     public static void main(String[] args) {
-        System.out.println("=== Конвертер температур ===");
+        System.out.println("Конвертер температур");
 
         // Переменная для текущего значения Цельсия
         double celsius;
